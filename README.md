@@ -1,42 +1,63 @@
-# *✨ This is Aastha Tiwari ✨*
+<div align="center">
 
-![Banner](https://img.shields.io/badge/This%20is%20Aastha%20Tiwari-Class%2012%20%7C%20ADCA%20%7C%20HTML%2C%20CSS%20%26%20JS-8b5cf6?style=for-the-badge)
-
-### *Class 12 Student  |  ADCA Completed  |  HTML & CSS  |  Learning JavaScript*
-
-<p align="left">
-  <a href="https://instagram.com/aastha.void" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <!-- 1. Highly Attractive Animated Typewriter Banner (Italic + Bold) -->
+  <!-- Yeh banner ek sophisticated pastel gradient aur glowing effect ke saath tumhara intro dega. -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&style=italic&size=36&duration=4000&pause=1000&color=4338CA&background=F5F3FF&center=true&vCenter=true&width=900&height=130&lines=This+is+Aastha+Tiwari+%E2%9C%A8;ADCA+Certified+Pro+%7C+Frontend+Developer+%F0%9F%9A%80;Crafting+Web+Experiences+with+HTML%2C+CSS+%26+JS" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/tiwariaastha987-sketch" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+  <br/><br/>
+
+  <!-- 2. Social Media Animated Badges -->
+  <!-- GitHub aur Instagram ke liye professional aur glowing badges -->
+  <a href="https://github.com/aastha.void" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Follow&logo=github&label=GitHub&labelColor=4338CA&color=6D28D9&logoColor=white&style=for-the-badge" alt="GitHub Follow" />
   </a>
-</p>
+  &nbsp; <!-- Space ke liye -->
+  <a href="https://instagram.com/tiwariaastha987-sketch" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Follow&logo=instagram&label=Instagram&labelColor=C026D3&color=A21CAF&logoColor=white&style=for-the-badge" alt="Instagram Follow" />
+  </a>
+
+</div>
 
 ---
 
-## *🌸 About Me*
+### *✨ About Me*
 
-* *Hlo! **This is Aastha Tiwari**, a **Class 12** student.*
-* *I have completed my **ADCA**.*
-* *I know **HTML** and **CSS** to design stylish web pages.*
-* *Currently, I am learning **JavaScript**.*
 
----
 
-## *💻 Skills & Learning*
-
-| *Category* | *Details* |
-| :--- | :--- |
-| *Qualification* | *Class 12 Student & ADCA Completed* |
-| *Web Design* | *HTML, CSS* |
-| *Currently Learning* | *JavaScript* |
-| *Social* | *Instagram & GitHub* |
+- *🎓 **Qualification:** Successfully completed **ADCA** (Advance Diploma in Computer Applications), mastering fundamentals to advanced concepts.*
+- *💻 **Current Focus:** Developing responsive, clean, and visually aesthetic user interfaces using **HTML5** and **CSS3**.*
+- *🌱 **Ongoing Journey:** Actively learning **JavaScript** to add dynamic interactivity and functionality to my web projects.*
+- *🚀 **Passion:** Turning creative ideas and complex problems into elegant, user-friendly web applications.*
 
 ---
 
-## *🚀 My Journey*
+### *🛠️ Tech Stack & Skill Categories*
 
-* *Building strong basics in **HTML** and **CSS**.*
-* *Practicing **JavaScript** step by step for interactive websites.*
-* *Sharing learning progress and projects here on **GitHub**.*
+
+<div align="center">
+
+#### *✅ Core Web Technologies (Mastered)*
+<!-- HTML5 aur CSS3 ke liye gradient aur animated icons -->
+<img src="https://skillicons.dev/icons?i=html" width="75" height="75" alt="HTML5" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="75" height="75" alt="CSS3" />
+
+<br/>
+
+#### *🌱 Currently Learning & Implementing*
+<!-- JavaScript ke liye icon -->
+<img src="https://skillicons.dev/icons?i=js" width="75" height="75" alt="JavaScript" />
+
+<br/>
+
+#### *🎓 Foundation & Office Suite (ADCA)*
+<!-- ADCA Certified aur MS Office ke liye icons -->
+<img src="https://img.shields.io/badge/ADCA_Certified-4338CA?style=for-the-badge&logo=google-scholar&logoColor=white" alt="ADCA Certified" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=office" width="75" height="75" alt="MS Office" />
+
+</div>
+
+
