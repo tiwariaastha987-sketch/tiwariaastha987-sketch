@@ -1,63 +1,46 @@
-<div align="center">
+<!-- Stylish Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=This%20is%20Aastha%20Tiwari&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+</p>
 
-  <!-- 1. Highly Attractive Animated Typewriter Banner (Italic + Bold) -->
-  <!-- Yeh banner ek sophisticated pastel gradient aur glowing effect ke saath tumhara intro dega. -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&style=italic&size=36&duration=4000&pause=1000&color=4338CA&background=F5F3FF&center=true&vCenter=true&width=900&height=130&lines=This+is+Aastha+Tiwari+%E2%9C%A8;ADCA+Certified+Pro+%7C+Frontend+Developer+%F0%9F%9A%80;Crafting+Web+Experiences+with+HTML%2C+CSS+%26+JS" alt="Typing SVG" />
+<!-- Animated Typing Subtitle in Italic -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&style=italic&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;ADCA+Graduate+%7C+Web+Development+Enthusiast;Currently+Learning+JavaScript+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<!-- Connect & Follow Buttons (Moved to Top) -->
+<p align="center">
+  <a href="https://github.com/tiwariaastha987-sketch" target="_blank">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
-  <br/><br/>
-
-  <!-- 2. Social Media Animated Badges -->
-  <!-- GitHub aur Instagram ke liye professional aur glowing badges -->
-  <a href="https://github.com/aastha.void" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Follow&logo=github&label=GitHub&labelColor=4338CA&color=6D28D9&logoColor=white&style=for-the-badge" alt="GitHub Follow" />
+  <a href="https://instagram.com/aastha.void" target="_blank">
+    <img src="https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  &nbsp; <!-- Space ke liye -->
-  <a href="https://instagram.com/tiwariaastha987-sketch" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Follow&logo=instagram&label=Instagram&labelColor=C026D3&color=A21CAF&logoColor=white&style=for-the-badge" alt="Instagram Follow" />
-  </a>
-
-</div>
+</p>
 
 ---
 
-### *✨ About Me*
+### ✨ *About Me*
 
-
-
-- *🎓 **Qualification:** Successfully completed **ADCA** (Advance Diploma in Computer Applications), mastering fundamentals to advanced concepts.*
-- *💻 **Current Focus:** Developing responsive, clean, and visually aesthetic user interfaces using **HTML5** and **CSS3**.*
-- *🌱 **Ongoing Journey:** Actively learning **JavaScript** to add dynamic interactivity and functionality to my web projects.*
-- *🚀 **Passion:** Turning creative ideas and complex problems into elegant, user-friendly web applications.*
+*🎓 **Education:** I have completed my **ADCA** (Advance Diploma in Computer Applications).*  
+*💻 **Current Focus:** Building strong foundations in web design and moving into dynamic web development.*  
+*🌱 **Next Goal:** Excited to start learning **JavaScript** very soon!*  
 
 ---
 
-### *🛠️ Tech Stack & Skill Categories*
+### 🛠️ *Tech Stack & Skills*
 
+*Here are the technologies I know and what I am planning to learn next:*
 
-<div align="center">
+| *Category* | *Skills & Tools* |
+| :--- | :--- |
+| ***Frontend (Known)*** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| ***Currently Learning*** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| ***Computer Diploma*** | ![ADCA](https://img.shields.io/badge/ADCA-Completed-success?style=for-the-badge) |
 
-#### *✅ Core Web Technologies (Mastered)*
-<!-- HTML5 aur CSS3 ke liye gradient aur animated icons -->
-<img src="https://skillicons.dev/icons?i=html" width="75" height="75" alt="HTML5" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="75" height="75" alt="CSS3" />
+---
 
-<br/>
-
-#### *🌱 Currently Learning & Implementing*
-<!-- JavaScript ke liye icon -->
-<img src="https://skillicons.dev/icons?i=js" width="75" height="75" alt="JavaScript" />
-
-<br/>
-
-#### *🎓 Foundation & Office Suite (ADCA)*
-<!-- ADCA Certified aur MS Office ke liye icons -->
-<img src="https://img.shields.io/badge/ADCA_Certified-4338CA?style=for-the-badge&logo=google-scholar&logoColor=white" alt="ADCA Certified" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=office" width="75" height="75" alt="MS Office" />
-
-</div>
-
-
+<!-- Stylish Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+</p>
